@@ -212,7 +212,7 @@ See [LOGS.md](LOGS.md) for the historical changelog.
 
 ## Contributing
 
-Issues and PRs are welcome at [github.com/saeedNW/nest-craft](https://github.com/saeedNW/nest-craft). If you are adding prompts/utilities, remember to document them here and update `LOGS.md`.
+Issues and PRs are welcome at [github.com/snorouzi/nest-craft](https://github.com/snorouzi/nest-craft). If you are adding prompts/utilities, remember to document them here and update `LOGS.md`.
 
 ---
 
